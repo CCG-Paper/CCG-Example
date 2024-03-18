@@ -1,0 +1,13 @@
+{
+    "name": "ccg-models24-example-generators",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+        "generate": "node main-generator.js"
+    },
+    "dependencies": {
+        "fs-extra": "^11.2.0",
+        "handlebars": "^4.7.8"
+    }
+}
