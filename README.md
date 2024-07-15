@@ -1,12 +1,11 @@
 # Reviewers, Please Note
 
-*This is an anonymized version for review.
 The history of this project has been rewritten, and changes to the repository are only pushed occasionally.
-The full repository will be opened after the review period.*
+The full repository will be opened after the review period.
 
-# Code-centric Code Generation (CCG) Example for MODELS 2024
+# Code-centric Code Generation (CCG) Example
 
-This repository contains the example for the paper "Code-centric Code Generation" submitted to MODELS 2024.
+This repository contains the example for the paper "Code-centric Code Generation".
 It recreates the example from the paper. Please feel free to try it out and follow the instructions below to get used to the CCG workflow.
 
 If you encounter any problems while trying out this example, please feel free to post them in the issue tracker of this repository. We will try to help you by replying with our anonymized account.
